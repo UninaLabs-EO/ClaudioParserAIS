@@ -18,7 +18,7 @@
           - Da linea di comando invio questo comando:
                     conda env create -f environment.yml
           - Attivo l'environment appena creato, da linea di comando:
-                    conda activate ais decoder
+                    conda activate aisdecoder
 
           Se tutto è andato a dovere, il setting è completato!
 
